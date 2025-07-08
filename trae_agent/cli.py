@@ -30,7 +30,7 @@ def load_config(
     provider: str | None = None,
     model: str | None = None,
     api_key: str | None = None,
-    config_file: str = "trae_config.json",
+    config_file: str = "trae-config-local.json",
     max_steps: int | None = 20,
 ) -> Config:
     """
