@@ -172,3 +172,4 @@ cython_debug/
 
 trajectory_*.json
 trae-config-local.json
+trae_config.json
