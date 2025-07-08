@@ -52,7 +52,7 @@
     },
     "openrouter": {
       "api_key": "you_openrouter_api_key",
-      "model": "qwen/qwen3-32b:free",
+      "model": "openai/gpt-4o-mini",
       "max_tokens": 40960,
       "temperature": 0.5,
       "top_p": 1,
@@ -71,6 +71,6 @@
   },
   "lakeview_config": {
     "model_provider": "openrouter",
-    "model_name": "deepseek/deepseek-chat-v3-0324:free"
+    "model_name": "openai/gpt-4o-mini"
   }
 }
